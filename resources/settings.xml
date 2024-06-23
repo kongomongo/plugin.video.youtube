@@ -853,7 +853,7 @@
                 <setting id="youtube.language" type="string" label="30523" help="">
                     <level>0</level>
                     <default>en-US</default>
-                    <enable>false</enable>
+                    <enable>true</enable>
                     <control format="string" type="edit">
                         <heading>30523</heading>
                     </control>
